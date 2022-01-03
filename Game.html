@@ -1,0 +1,72 @@
+﻿<!doctype html>
+<html lang="he">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>שלשל את המכתב | משחק</title>
+    <meta name="description" content="שלשל את המכתב" />
+    <meta name="keywords" content="שלשל את המכתב, משחק, משחק לימודי, משחק מיון, קטגוריות, הילה, שירה, הילה פיטם, שירה פיקר" />
+    <meta name="author" content="Heela Pitem, Shira Picker" />
+    <!-- CSS -->
+    <link href="styles/StyleSheet.css" rel="stylesheet" />
+    <!-- Scripts -->
+    <script src="jscripts/jquery-1.12.0.min.js"></script>
+    <script src="jscripts/JavaScript.js"></script>
+
+    <link rel="icon" type="image/png" sizes="96x96" href="images/mail.png" />
+</head>
+<body>
+    <div id="container">
+        <header>
+            <div class="innerHeader">
+                <!--קישור לדף עצמו כדי להתחיל את המשחק מחדש בלחיצה על הלוגו-->
+
+                <img id="logo" src="images/mail.png" />
+                <!--הלוגו של המשחק שלכם-->
+                <p class="t0">שלשל את המכתב!</p>
+
+                <!--תפריט הניווט בראש העמוד-->
+                <nav>
+                    <ul>
+                        <li><a href="Login.aspx">עורך</a></li>
+                        <li><a href="#" class="selectedNav">למשחק</a></li>
+                        <li><a href="#" class="about">אודות</a></li>
+                        <li><a href="#" class="howToPlay">איך משחקים</a></li>
+                    </ul>
+                </nav>
+            </div>
+        </header>
+
+
+        <!-- פאנל אודות -->
+        <asp:Panel ID="aboutPanel" Class="aboutPanelCss bounceInDown hide" runat="server">
+            <a class="closeAbout">X</a>
+            <p>שלשל את המכתב!</p>
+            <p>אפיון ופיתוח: הילה פיטם ושירה פיקר</p>
+            <p>פותח במסגרת פרויקט בקורסים:</p>
+            <p>סביבות לימוד אינטראקטיביות, תכנות & אנימציה, תשע"ט</p>
+            <a href="https://www.hit.ac.il/telem/overview">הפקולטה לטכנולוגיות למידה, המכון הטכנולוגי חולון</a>
+            <img src="images/hitlogo.jpg" width="180" height="180" />
+        </asp:Panel>
+
+        <!-- פאנל איך משחקים -->
+        <asp:Panel ID="howToPlayPanel" class="howToPlayPanelCss bounceInDown hide" runat="server">
+            <a class="closeHowToPlay">X</a>
+            <div class="video_wrapper">
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/hBSIJQlLulo?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
+
+
+
+        </asp:Panel>
+
+        <div id="gameArea">
+            <!--src = הקישור של דף המשחק שלכם (לא קובץ האנימייט)-->
+            <iframe id="gameIframe" src="theMailman.html" frameBorder="0" allowfullscreen="">Browser not compatible.</iframe>
+            </div>
+
+
+        </div>
+</body>
+</html>

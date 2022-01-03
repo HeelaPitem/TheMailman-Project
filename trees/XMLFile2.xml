@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<theMailman>
+  <gameCounter>111</gameCounter>
+  <game gamecode="111" published="false" gameTime="30">
+    <gameName>%d7%a8%d7%9b%d7%92</gameName>
+    <gameDirections>גרור את המכתב אל התיבה המתאימה.</gameDirections>
+    <categoryCounter>0</categoryCounter>
+    <categories />
+    <itemCounter>0</itemCounter>
+    <items />
+  </game>
+  <game gamecode="108" published="True" gameTime="30">
+    <gameName>%d7%91%d7%a9%d7%a8%d7%99%3f%d7%97%d7%9c%d7%91%d7%99%3f%d7%a4%d7%a8%d7%95%d7%95%d7%94%3f(%d7%93%d7%a0%d7%99%d7%90%d7%9c%d7%94+%d7%95%d7%9e%d7%99%d7%a8%d7%99%d7%aa-%d7%a7%d7%99%d7%a5+%d7%aa%d7%a9%d7%a4)</gameName>
+    <gameDirections>גרור את המכתב אל התיבה המתאימה.</gameDirections>
+    <categoryCounter>5</categoryCounter>
+    <categories>
+      <category categoryNum="3">%d7%a4%d7%a8%d7%95%d7%95%d7%94</category>
+      <category categoryNum="2">%d7%97%d7%9c%d7%91%d7%99</category>
+      <category categoryNum="1">%d7%91%d7%a9%d7%a8%d7%99</category>
+    </categories>
+    <itemCounter>17</itemCounter>
+    <items>
+      <item itemNum="1" itemType="text" categoryNum="3">%d7%a9%d7%95%d7%a7%d7%95%d7%9c%d7%93+%d7%9e%d7%a8%d7%99%d7%a8</item>
+      <item itemNum="2" itemType="text" categoryNum="3">%d7%90%d7%95%d7%a8%d7%96</item>
+      <item itemNum="3" itemType="text" categoryNum="3">%d7%9e%d7%9c%d7%a4%d7%a4%d7%95%d7%9f</item>
+      <item itemNum="4" itemType="text" categoryNum="3">%d7%a2%d7%92%d7%91%d7%a0%d7%99%d7%94</item>
+      <item itemNum="6" itemType="text" categoryNum="3">%d7%91%d7%9e%d7%91%d7%94</item>
+      <item itemNum="7" itemType="text" categoryNum="2">%d7%92%d7%91%d7%99%d7%a0%d7%94+%d7%a6%d7%94%d7%95%d7%91%d7%94</item>
+      <item itemNum="8" itemType="text" categoryNum="2">%d7%97%d7%9e%d7%90%d7%94</item>
+      <item itemNum="9" itemType="text" categoryNum="2">%d7%a9%d7%95%d7%a7%d7%95%d7%9c%d7%93+%d7%a0%d7%95%d7%98%d7%9c%d7%94</item>
+      <item itemNum="10" itemType="picture" categoryNum="2">uploadedFiles%2f20_07_20_12_21_59.jpg</item>
+      <item itemNum="11" itemType="text" categoryNum="1">%d7%a2%d7%95%d7%a3+%d7%91%d7%99%d7%99%d7%9f</item>
+      <item itemNum="12" itemType="text" categoryNum="2">%d7%a9%d7%95%d7%a7%d7%95</item>
+      <item itemNum="13" itemType="text" categoryNum="1">%d7%94%d7%9e%d7%91%d7%95%d7%a8%d7%92%d7%a8</item>
+      <item itemNum="14" itemType="text" categoryNum="1">%d7%a9%d7%a0%d7%99%d7%a6%d7%9c</item>
+      <item itemNum="15" itemType="text" categoryNum="1">%d7%a0%d7%90%d7%92%d7%98%d7%a1</item>
+      <item itemNum="17" itemType="text" categoryNum="1">%d7%a1%d7%98%d7%99%d7%99%d7%a7</item>
+    </items>
+  </game>
+  <game gamecode="100" gameTime="60" published="True">
+    <gameName>יצירות אומנות</gameName>
+    <gameDirections>גרור את המכתב אל התיבה המתאימה.</gameDirections>
+    <categoryCounter>4</categoryCounter>
+    <categories>
+      <category categoryNum="0">וינסנט ואן גוך</category>
+      <category categoryNum="1">לאונרדו דה וינצ'י</category>
+      <category categoryNum="2">סלבדור דאלי</category>
+      <category categoryNum="3">פבלו פיקאסו</category>
+      <category categoryNum="4">גוסטב קלימט</category>
+    </categories>
+    <itemCounter>24</itemCounter>
+    <items>
+      <item itemNum="0" itemType="picture" categoryNum="0">uploadedFiles/van1.png</item>
+      <item itemNum="1" itemType="picture" categoryNum="0">uploadedFiles/van3.png</item>
+      <item itemNum="2" itemType="text" categoryNum="0">%d7%97%d7%9e%d7%a0%d7%99%d7%95%d7%aa</item>
+      <item itemNum="3" itemType="text" categoryNum="0">%d7%90%d7%99%d7%a8%d7%95%d7%a1%d7%99%d7%9d</item>
+      <item itemNum="4" itemType="picture" categoryNum="0">uploadedFiles/van2.png</item>
+      <item itemNum="5" itemType="text" categoryNum="1">%d7%a1%d7%9c%d7%91%d7%93%d7%95%d7%a8+%d7%9e%d7%95%d7%a0%d7%93%d7%99</item>
+      <item itemNum="6" itemType="text" categoryNum="1">%d7%94%d7%a1%d7%a2%d7%95%d7%93%d7%94+%d7%94%d7%90%d7%97%d7%a8%d7%95%d7%a0%d7%94</item>
+      <item itemNum="7" itemType="picture" categoryNum="1">uploadedFiles/daVinci3.png</item>
+      <item itemNum="8" itemType="picture" categoryNum="1">uploadedFiles/daVinci1.png</item>
+      <item itemNum="9" itemType="picture" categoryNum="1">uploadedFiles/daVinci2.png</item>
+      <item itemNum="10" itemType="text" categoryNum="2">%d7%a4%d7%a0%d7%99+%d7%94%d7%9e%d7%9c%d7%97%d7%9e%d7%94</item>
+      <item itemNum="11" itemType="picture" categoryNum="2">uploadedFiles/dali1.png</item>
+      <item itemNum="12" itemType="text" categoryNum="2">%d7%9e%d7%98%d7%9e%d7%95%d7%a8%d7%a4%d7%95%d7%96%d7%94+%d7%a9%d7%9c+%d7%a0%d7%a8%d7%a7%d7%99%d7%a1%d7%95%d7%a1</item>
+      <item itemNum="13" itemType="picture" categoryNum="2">uploadedFiles/dali2.png</item>
+      <item itemNum="14" itemType="text" categoryNum="2">%d7%94%d7%92%27%d7%99%d7%a8%d7%a4%d7%94+%d7%94%d7%91%d7%95%d7%a2%d7%a8%d7%aa</item>
+      <item itemNum="15" itemType="text" categoryNum="3">%d7%94%d7%a2%d7%9c%d7%9e%d7%95%d7%aa+%d7%9e%d7%90%d7%91%d7%99%d7%a0%d7%99%d7%95%d7%9f</item>
+      <item itemNum="16" itemType="text" categoryNum="3">%d7%94%d7%aa%d7%a4%d7%95%d7%97%d7%99%d7%9d</item>
+      <item itemNum="17" itemType="text" categoryNum="3">%d7%90%d7%99%d7%a9%d7%94+%d7%a2%d7%9d+%d7%9e%d7%a0%d7%99%d7%a4%d7%94</item>
+      <item itemNum="18" itemType="picture" categoryNum="3">uploadedFiles%2f25_07_19_19_18_13.jpg</item>
+      <item itemNum="19" itemType="picture" categoryNum="3">uploadedFiles%2f25_07_19_19_18_21.jpg</item>
+      <item itemNum="20" itemType="picture" categoryNum="4">uploadedFiles/klimt1.png</item>
+      <item itemNum="21" itemType="picture" categoryNum="4">uploadedFiles/klimt2.png</item>
+      <item itemNum="22" itemType="picture" categoryNum="4">uploadedFiles/klimt3.png</item>
+      <item itemNum="23" itemType="picture" categoryNum="4">uploadedFiles/klimt4.png</item>
+      <item itemNum="24" itemType="text" categoryNum="4">%d7%97%d7%99%d7%99%d7%9d+%d7%95%d7%9e%d7%95%d7%95%d7%aa</item>
+    </items>
+  </game>
+  <game gamecode="101" gameTime="30" published="True">
+    <gameName>אבות מזון</gameName>
+    <gameDirections>גרור את המכתב אל התיבה המתאימה.</gameDirections>
+    <categoryCounter>2</categoryCounter>
+    <categories>
+      <category categoryNum="3">פחמימות</category>
+      <category categoryNum="1">שומנים</category>
+      <category categoryNum="2">חלבונים</category>
+    </categories>
+    <itemCounter>15</itemCounter>
+    <items>
+      <item itemNum="15" itemType="picture" categoryNum="3">uploadedFiles/carb1.png</item>
+      <item itemNum="1" itemType="text" categoryNum="3">תפוח אדמה</item>
+      <item itemNum="2" itemType="text" categoryNum="3">בטטה</item>
+      <item itemNum="3" itemType="picture" categoryNum="3">uploadedFiles/carb2.png</item>
+      <item itemNum="4" itemType="text" categoryNum="3">אורז</item>
+      <item itemNum="5" itemType="picture" categoryNum="1">uploadedFiles/fat1.png</item>
+      <item itemNum="6" itemType="text" categoryNum="1">שמן תירס</item>
+      <item itemNum="7" itemType="text" categoryNum="1">חמאת בוטנים</item>
+      <item itemNum="8" itemType="picture" categoryNum="1">uploadedFiles/fat2.png</item>
+      <item itemNum="9" itemType="text" categoryNum="1">חמאה</item>
+      <item itemNum="10" itemType="picture" categoryNum="2">uploadedFiles/protein1.png</item>
+      <item itemNum="11" itemType="text" categoryNum="2">חלב</item>
+      <item itemNum="12" itemType="text" categoryNum="2">טונה</item>
+      <item itemNum="13" itemType="picture" categoryNum="2">uploadedFiles/protein2.png</item>
+      <item itemNum="14" itemType="text" categoryNum="2">טופו</item>
+    </items>
+  </game>
+</theMailman>
